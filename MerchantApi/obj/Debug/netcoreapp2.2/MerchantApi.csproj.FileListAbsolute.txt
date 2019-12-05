@@ -1,0 +1,16 @@
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\MerchantApi.deps.json
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\MerchantApi.runtimeconfig.json
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\MerchantApi.runtimeconfig.dev.json
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\MerchantApi.dll
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.csprojAssemblyReference.cache
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.RazorAssemblyInfo.cache
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.RazorAssemblyInfo.cs
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.AssemblyInfoInputs.cache
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.AssemblyInfo.cs
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.RazorTargetAssemblyInfo.cache
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\bin\Debug\netcoreapp2.2\MerchantApi.pdb
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.dll
+C:\Users\YOGI ERMANTO\source\repos\MerchantApi\MerchantApi\obj\Debug\netcoreapp2.2\MerchantApi.pdb
